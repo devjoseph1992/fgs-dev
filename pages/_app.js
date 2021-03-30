@@ -1,5 +1,5 @@
-import { ChakraProvider } from "@chakra-ui/react";
-import Container from "../components/Container";
+import { ChakraProvider } from '@chakra-ui/react';
+import Container from '@/components/Container';
 
 function MyApp({ Component, pageProps }) {
  return (
